@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring_day01_01_ioc入门程序" />
+        <module name="Spring_day01_02_ioc配置" />
+        <module name="Spring_day01_03_di配置" />
+        <module name="Spring_day01_04_实用开发相关配置" />
+        <module name="Spring_day01_05_综合案例spring整合mybatis" />
+        <module name="Spring_day02_01_注解_IoC注解" />
+        <module name="Spring_day02_02_注解整合MyBatis" />
+        <module name="Spring_day02_03_bean加载过滤" />
+        <module name="Spring_day03_01_AOP入门案例" />
+        <module name="Spring_day03_02_AOPXML" />
+        <module name="Spring_day03_03_AOP注解" />
+        <module name="Spring_day03_04_综合案例" />
+        <module name="Spring_day03_05_AOP底层原理" />
+        <module name="Spring_day04_01_编程式事务控制" />
+        <module name="Spring_day04_02_声明式事务XML_TX" />
+        <module name="Spring_day04_03_声明式事务_注解" />
+        <module name="Spring_day04_04_声明式事务_注解驱动" />
+        <module name="Spring_day04_05_JDBCTemplate" />
+        <module name="Spring_day04_06_RedisTemplate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_day01_01_ioc入门程序" target="1.5" />
+      <module name="Spring_day01_02_ioc配置" target="1.5" />
+      <module name="Spring_day01_03_di配置" target="1.5" />
+      <module name="Spring_day01_04_实用开发相关配置" target="1.5" />
+      <module name="Spring_day01_05_综合案例spring整合mybatis" target="1.5" />
+      <module name="Spring_day02_01_注解_IoC注解" target="1.5" />
+      <module name="Spring_day02_02_注解整合MyBatis" target="1.5" />
+      <module name="Spring_day02_03_bean加载过滤" target="1.8" />
+      <module name="Spring_day03_01_AOP入门案例" target="1.5" />
+      <module name="Spring_day03_02_AOPXML" target="1.5" />
+      <module name="Spring_day03_03_AOP注解" target="1.5" />
+      <module name="Spring_day03_04_综合案例" target="1.5" />
+      <module name="Spring_day03_05_AOP底层原理" target="1.5" />
+      <module name="Spring_day04_01_编程式事务控制" target="1.5" />
+      <module name="Spring_day04_02_声明式事务XML_TX" target="1.5" />
+      <module name="Spring_day04_03_声明式事务_注解" target="1.5" />
+      <module name="Spring_day04_04_声明式事务_注解驱动" target="1.5" />
+      <module name="Spring_day04_05_JDBCTemplate" target="1.5" />
+      <module name="Spring_day04_06_RedisTemplate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

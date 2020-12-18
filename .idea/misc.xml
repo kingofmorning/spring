@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring_day03_03_AOP注解/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day02_03_bean加载过滤/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day01_01_ioc入门程序/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day03_01_AOP入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day01_02_ioc配置/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day03_02_AOPXML/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day01_03_di配置/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day01_04_实用开发相关配置/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day01_05_综合案例spring整合mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day02_01_注解_IoC注解/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day02_02_注解整合mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day03_04_综合案例/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day03_05_AOP底层原理/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_01_编程式事务控制/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_02_声明式事务XML_TX/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_03_声明式事务_注解/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_04_声明式事务_注解驱动/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_05_JDBCTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_day04_06_RedisTemplate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
